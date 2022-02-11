@@ -1,5 +1,4 @@
 # MulSetRank
-MulSetRank: Multiple Set Ranking for Personalized Recommendation from Implicit Feedback
 This is our PyTorch implementation for the paper:
 
 > MulSetRank: Multiple Set Ranking for Personalized Recommendation from Implicit Feedback
